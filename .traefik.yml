@@ -1,7 +1,7 @@
 displayName: GEOIP
 type: middleware
 
-import: github.com/CorentinMAG/geoip
+import: github.com/CorentinMAG/geoIP
 
 summary: "Get location of the client IP address and append the country name in a custom header"
 
