@@ -1,3 +1,3 @@
-module github.com/CorentinMAG/geoip
+module github.com/CorentinMAG/geoIP
 
 go 1.13
